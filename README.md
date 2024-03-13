@@ -1,5 +1,5 @@
 # studyLog
-A log of completed and ongoing courses and subjects for easy reference and progress monitoring.
+If I decide to do some online courses, here I keep a log of completed and ongoing courses and subjects for easy reference and progress monitoring.
 
 ### Foundations
 Topics|Resource|Progress|
