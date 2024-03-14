@@ -6,6 +6,10 @@ Topics|Resource|Progress|
 |---|---|---|
 |Web Development|[The Odin Project](https://www.theodinproject.com/)|64%|
 
+### Web Development
+Topics|Resource|Progress|
+|---|---|---|
+|Full Stack Ruby on Rails Path|[The Odin Project](https://www.theodinproject.com/)|0%|
 
 ### JavaScript
 |Resource|Progress|
