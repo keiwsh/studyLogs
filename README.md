@@ -4,11 +4,15 @@ If I decide to do some online courses, here I keep a log of completed and ongoin
 ### Foundations
 Topics|Resource|Progress|
 |---|---|---|
-|Web Development|[The Odin Project](https://www.theodinproject.com/)|72%|
+|Foundations of Programming|[Google](https://techdevguide.withgoogle.com/paths/foundational/)|0%|
+|Data Structures & Algorithms|[Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)|0%|
+
 
 ### Web Development
 Topics|Resource|Progress|
 |---|---|---|
+|Foundations|[The Odin Project](https://www.theodinproject.com/)|72%|
+
 
 
 ### JavaScript
