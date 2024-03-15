@@ -4,12 +4,12 @@ If I decide to do some online courses, here I keep a log of completed and ongoin
 ### Foundations
 Topics|Resource|Progress|
 |---|---|---|
-|Web Development|[The Odin Project](https://www.theodinproject.com/)|64%|
+|Web Development|[The Odin Project](https://www.theodinproject.com/)|72%|
 
 ### Web Development
 Topics|Resource|Progress|
 |---|---|---|
-|Full Stack Ruby on Rails Path|[The Odin Project](https://www.theodinproject.com/)|0%|
+
 
 ### JavaScript
 |Resource|Progress|
